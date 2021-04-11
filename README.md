@@ -1,2 +1,0 @@
-# medSoft-apiGateway
-medSoft-apiGateway
